@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "502099789425",
+    "firebase_url": "https://tracking-app-9a3af.firebaseio.com",
+    "project_id": "tracking-app-9a3af",
+    "storage_bucket": "tracking-app-9a3af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502099789425:android:98e18dcc97dadf53",
+        "android_client_info": {
+          "package_name": "com.mamahome360.mamahomele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502099789425-dak3nmn7phct8me1h8qrpjd6k33dn4p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamahome360.mamahomele",
+            "certificate_hash": "631895ee0dcfa4d5f64ac634b6497a506a63deb5"
+          }
+        },
+        {
+          "client_id": "502099789425-1g7moqfgb981rfmjfegco48es4r53m30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKAdQEBIRo6mzZxjEe7u577Yrk-yYR6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502099789425-1g7moqfgb981rfmjfegco48es4r53m30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
